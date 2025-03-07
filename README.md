@@ -1,7 +1,9 @@
 # Automated External Defibrillator (AED) Locator
 
 ## Overview
-The **Automated External Defibrillator (AED) Locator** is a recent project designed to help individuals quickly locate defibrillators during cardiac emergencies on campus. This project involves a mobile application that detects AEDs in real-time, providing users with the nearest location to an available device. The aim is to make defibrillators more accessible and ensure swift action in life-threatening situations.
+The **Automated External Defibrillator (AED) Locator** is a my masters thesis project designed to help individuals quickly locate defibrillators during cardiac emergencies on campus. This project involves a mobile application that detects AEDs in real-time, providing users with the nearest location to an available device. The aim is to make defibrillators more accessible and ensure swift action in life-threatening situations.
+
+For my full portfolio of work and UI of this project head to: [Portfolio](https://alejandrap2008.wixsite.com/portfolio)
 
 ## Key Features
 - **Real-time AED Location Tracking**: The mobile app helps users find the nearest defibrillator by using location-based services.
