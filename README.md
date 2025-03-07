@@ -20,9 +20,6 @@ The design of the AED Locator app has gone through several iterations, created u
 - **Location Map**: Interactive map that shows the user’s location and the nearest defibrillators.
 - **Responsive Design**: The design adjusts to various screen sizes to provide a seamless experience across devices.
 
-## Current Implementation
-This project showcases the application’s progress so far, including the completed design iterations and the ongoing development of the app. The implementation focuses on integrating the location features and preparing the app for real-time updates.
-
 ## Future Development
 - **Enhanced AED Database**: Expansion to include more locations and real-time updates of AED availability.
 - **Push Notifications**: Alerts for users to notify when they are near a defibrillator.
